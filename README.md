@@ -27,11 +27,11 @@ What this project does:
 ##What it looks like in Neo4j DB
 ####Initial population:
 ![Population][id]
-[id]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_initial_population.jpg
+[id]: https://github.com/nrkfeller/UserInfection/blob/master/vis_initial_population.jpg?raw=true
 
 ####Partial infection:
 ![Partial][id]
-[id]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_partial_infection.jpg
+[id]: https://github.com/nrkfeller/UserInfection/blob/master/vis_partial_infection.jpg?raw=true
 
 ####Total infection:
 ![Full][id]
