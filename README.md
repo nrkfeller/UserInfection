@@ -16,8 +16,14 @@ What this project does:
 3. Test limited infection on a set number of users. If the set number of users is possible given the coaching relationship constraints, infect thoser users. Show visualization
 4. Test total infection, infect the remaining users. Show visualization
 
-Partial infection:
-png
+Initial population
+![GitHub Logo](/home/efelnic/Documents/KhanAcademy/InitialPopulation.png)
+Format: ![Alt Text](url)
+
+artial infection:
+![GitHub Logo](/home/efelnic/Documents/KhanAcademy/PartialInfection.png)
+Format: ![Alt Text](url)
 
 Total infection
-png
+![GitHub Logo](/home/efelnic/Documents/KhanAcademy/FullInfection.png)
+Format: ![Alt Text](url)
