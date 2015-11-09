@@ -26,13 +26,13 @@ What this project does:
 
 ##What it looks like in Neo4j DB
 ####Initial population:
-![Population][id]
-[id]: https://github.com/nrkfeller/UserInfection/blob/master/vis_initial_population.jpg?raw=true
+![Population][id1]
+[id1]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_initial_population.jpg
 
 ####Partial infection:
-![Partial][id]
-[id]: https://github.com/nrkfeller/UserInfection/blob/master/vis_partial_infection.jpg?raw=true
+![Partial][id2]
+[id2]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_partial_infection.jpg
 
 ####Total infection:
-![Full][id]
-[id]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_full_infection.jpg
+![Full][id3]
+[id3]: https://raw.githubusercontent.com/nrkfeller/UserInfection/master/vis_full_infection.jpg
