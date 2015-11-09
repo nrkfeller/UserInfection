@@ -16,14 +16,12 @@ What this project does:
 3. Test limited infection on a set number of users. If the set number of users is possible given the coaching relationship constraints, infect thoser users. Show visualization
 4. Test total infection, infect the remaining users. Show visualization
 
-Initial population
-![GitHub Logo](/home/efelnic/Documents/KhanAcademy/InitialPopulation.png)
-Format: ![Alt Text](url)
+##What it looks like in Neo4j DB
+####Initial population:
+![Image of Yaktocat](https://github.com/nrkfeller/UserInfection/blob/master/InitialPopulation.png)
 
-artial infection:
-![GitHub Logo](/home/efelnic/Documents/KhanAcademy/PartialInfection.png)
-Format: ![Alt Text](url)
+####Partial infection:
+![Image of Yaktocat](https://github.com/nrkfeller/UserInfection/blob/master/PartialInfection.png)
 
-Total infection
-![GitHub Logo](/home/efelnic/Documents/KhanAcademy/FullInfection.png)
-Format: ![Alt Text](url)
+####Total infection:
+![Image of Yaktocat](https://github.com/nrkfeller/UserInfection/blob/master/FullInfection.png)
